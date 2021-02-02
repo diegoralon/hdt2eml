@@ -38,6 +38,8 @@ def simetrica (m):
 simetrica(m)
 simetrica(m1)
 simetrica(m2)
+
+
     
 
 
